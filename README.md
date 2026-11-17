@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Hypernova
 
 > A service for server-side rendering your JavaScript views
